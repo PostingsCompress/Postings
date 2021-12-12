@@ -1,6 +1,7 @@
 # Postings
+This repo contains code for converting between binary and Postings(sequences of strictly increasing integers).
 This repo is fully open source, licensed under a permissive [MIT License](https://opensource.org/licenses/MIT). You are welcome to explore the code and make 
-contributions. At the moment, the library is written entirely in C and we encourage contributors who want to create bindings in their favorite languages.
+contributions. At the moment, the library is written entirely in C and we encourage contributions from people who want to create bindings in their favorite languages.
 \
 # Quick Start
 1. Download **3 files** GreedyBinaryToPostings.c SharedLibraries.c SharedLibraries.h from this [directory]().
