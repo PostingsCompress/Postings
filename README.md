@@ -5,9 +5,10 @@ contributions. At the moment, the library is written entirely in C and we encour
 # Quick Start
 1. Download **3 files** GreedyBinaryToPostings.c SharedLibraries.c SharedLibraries.h from this [directory]().
 2. Create a new file main.c in the same directory as your downloads.
-3. For you 
+3. Add code for performing conversions like the example below
 
 ```C
+//compile with gcc GreedyBinaryToPostings.c SharedLibraries.c main.c -o main.o && ./main.o
 #include <stdio.h>
 #include <stdlib.h>
 #include "SharedLibraries.h"
