@@ -4,7 +4,7 @@ This repo is fully open source, licensed under a permissive [MIT License](https:
 contributions. At the moment, the library is written entirely in C and we encourage contributions from people who want to create bindings in their favorite languages.
 \
 # Quick Start
-1. Download **3 files** GreedyBinaryToPostings.c SharedLibraries.c SharedLibraries.h from this [directory]().
+1. Download **3 files** GreedyBinaryToPostings.c SharedLibraries.c SharedLibraries.h from this [directory](https://github.com/PostingsCompress/Postings/tree/main/MathLibraries).
 2. Create a new file main.c in the same directory as your downloads.
 3. Add code for performing conversions like the example below
 
